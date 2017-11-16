@@ -1,2 +1,3 @@
 # shaping
-Shape your public cloud area
+
+> What [https://www.terraform.io](terraform) could do to your **cloud** environments
