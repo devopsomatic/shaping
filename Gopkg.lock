@@ -49,9 +49,15 @@
   packages = ["unix"]
   revision = "bf42f188b9bc6f2cf5b8ee5a912ef1aedd0eba4c"
 
+[[projects]]
+  name = "gopkg.in/rjz/githubhook.v0"
+  packages = ["."]
+  revision = "d5f019004f0a15c1c9be5ac3034071ba0dff5832"
+  version = "v0.0.1"
+
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "895715ac310be5633e6dd4a6dfd62c12cf1e42dab9233911e34bc41a504b9df0"
+  inputs-digest = "ab6e1462aa5af5f20066e006e472599399f3078c0beafcbcc413f9e0ff041552"
   solver-name = "gps-cdcl"
   solver-version = 1
